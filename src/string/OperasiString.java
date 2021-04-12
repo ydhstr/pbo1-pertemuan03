@@ -2,7 +2,7 @@ package string;
 
 public class OperasiString {
     public static void main(String[] args){
-        String kota =" Yongyakarta";
+        String kota =" Yogyakarta";
 
         System.out.println(kota);
     }
